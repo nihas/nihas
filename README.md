@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Nihas Nizar
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=9++Years+Experienced+Mobile+App+Developer!;Helping+developers+to+become+experts!;Koltin+Java+SwiftUI+Jetpack+Compose!;Currently+exploring+Kotlin+Multi+Platform!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=9+Yrs+Exp+Mobile+App+Developer!;Kotlin+Java!;SwiftUI+Jetpack+Compose!;Exploring+Kotlin+MultiPlatform!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 <p>
