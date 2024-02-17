@@ -70,7 +70,7 @@
 -->
 
 ```text
-🕑︎ Time Zone: Asia/New Delhi
+🕑︎ Time Zone: Asia/Bengaluru
 
 💬 Programming Languages: 
 Koltin/Java              14 hrs 59 mins      ███████████████████░░░░░░   74.26 % 
