@@ -96,13 +96,13 @@ Swift                    6 repos             ██░░░░░░░░░�
 HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 NodeJS/ReactJS           3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
-
+**Github Profile Trophy** 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihas" alt="nihas" /></a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihas&show_icons=true&locale=en&layout=compact" alt="nihas" /></p>
 
-📈 my github stats
+📈 **Github Stats** 
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nihas&show_icons=true&theme=gotham" alt="nihas" />
 
