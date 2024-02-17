@@ -1,4 +1,4 @@
-<h1 align="center">### Hi there 👋, I'm Nihas Nizar</h1>
+<h1 align="center">Hi there 👋, I'm Nihas Nizar</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=9+Yrs+Exp+Mobile+App+Developer!;Kotlin+/+Java+/+NodeJS!;SwiftUI+/+Jetpack+Compose!;Exploring+Kotlin+MultiPlatform!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
@@ -98,11 +98,11 @@ NodeJS/ReactJS           3 repos             █░░░░░░░░░░�
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihas" alt="nihas" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihas&show_icons=true&locale=en&layout=compact" alt="nihas" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihas&show_icons=true&locale=en&layout=compact" alt="nihas" /></p>
 
 📈 my github stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nihas&show_icons=true&theme=gotham" alt="nihas" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nihas&show_icons=true&theme=gotham" alt="nihas" />
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
