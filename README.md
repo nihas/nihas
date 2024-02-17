@@ -12,6 +12,8 @@
 <!--   <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a> -->
 </p>
 
+
+<!--
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
@@ -65,7 +67,7 @@
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_next_anchor]
-
+-->
 
 ```text
 🕑︎ Time Zone: Asia/New Delhi
